@@ -1,0 +1,66 @@
+==== #0
+isolate:523
+strain:482
+cluster:274
+beijing:249
+pza:222
+transmission:213
+linezolid:183
+patient:173
+genotype:161
+mycobacterium:147
+==== #1
+isolate:1516
+resistance:1437
+drug:1338
+mutation:1109
+strain:1032
+mycobacterium:1004
+m.:656
+study:587
+resistant:485
+gene:448
+==== #2
+case:841
+control:554
+new:411
+drug:390
+child:385
+disease:377
+multidrug_resistant:354
+infection:340
+treatment:333
+country:330
+==== #3
+resistance:695
+assay:664
+detection:576
+result:573
+method:566
+dst:509
+test:497
+rapid:430
+rif:428
+culture:428
+==== #4
+patient:457
+response:190
+cell:173
+pulmonary:144
+therapy:117
+level:103
+lung:100
+sputum:94
+culture:87
+blood:85
+==== #5
+patient:5410
+treatment:3883
+drug:1639
+case:1344
+outcome:1178
+study:1126
+multidrug_resistant:1081
+resistance:931
+result:811
+regimen:740

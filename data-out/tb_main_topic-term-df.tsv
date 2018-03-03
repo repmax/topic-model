@@ -1,0 +1,7 @@
+rank	topic_id	terms	weight
+5	0	| isolate | strain | cluster | beijing | pza | transmission | linezolid | patient | genotype | mycobacterium |	0.05904006657721378
+2	1	| isolate | resistance | drug | mutation | strain | mycobacterium | m. | study | resistant | gene |	0.23970309359437128
+3	2	| case | control | new | drug | child | disease | multidrug_resistant | infection | treatment | country |	0.17331467307906975
+4	3	| resistance | assay | detection | result | method | dst | test | rapid | rif | culture |	0.12285060345487553
+6	4	| patient | response | cell | pulmonary | therapy | level | lung | sputum | culture | blood |	0.04060034555145642
+1	5	| patient | treatment | drug | case | outcome | study | multidrug_resistant | resistance | result | regimen |	0.36449121774301324
